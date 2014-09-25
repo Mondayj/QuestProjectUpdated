@@ -1,0 +1,14 @@
+h:\visual studio 2013\Projects\QuestProject\QuestProject\bin\Debug\QuestProject.exe.config
+h:\visual studio 2013\Projects\QuestProject\QuestProject\bin\Debug\QuestProject.exe
+h:\visual studio 2013\Projects\QuestProject\QuestProject\bin\Debug\QuestProject.pdb
+h:\visual studio 2013\Projects\QuestProject\QuestProject\bin\Debug\QuestProject.xml
+h:\visual studio 2013\Projects\QuestProject\QuestProject\obj\Debug\QuestProject.Form1.resources
+h:\visual studio 2013\Projects\QuestProject\QuestProject\obj\Debug\QuestProject.Resources.resources
+h:\visual studio 2013\Projects\QuestProject\QuestProject\obj\Debug\QuestProject.vbproj.GenerateResource.Cache
+h:\visual studio 2013\Projects\QuestProject\QuestProject\obj\Debug\QuestProject.exe
+h:\visual studio 2013\Projects\QuestProject\QuestProject\obj\Debug\QuestProject.xml
+h:\visual studio 2013\Projects\QuestProject\QuestProject\obj\Debug\QuestProject.pdb
+H:\GitHub\QuestProjectUpdated\QuestProject\bin\Debug\QuestProject.exe.config
+H:\GitHub\QuestProjectUpdated\QuestProject\obj\Debug\QuestProject.exe
+H:\GitHub\QuestProjectUpdated\QuestProject\obj\Debug\QuestProject.xml
+H:\GitHub\QuestProjectUpdated\QuestProject\obj\Debug\QuestProject.pdb
